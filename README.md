@@ -23,4 +23,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [RESTful API](https://github.com/ChiYunXiang/RESTful_API.git)
+- [Wheather API](https://github.com/ChiYunXiang/WheatherAPI.git)
