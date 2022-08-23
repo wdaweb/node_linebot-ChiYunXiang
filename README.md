@@ -24,4 +24,4 @@
 
 ## 作業連結
 - [RESTful API](https://github.com/ChiYunXiang/RESTful_API.git)
-- [Wheather API](https://github.com/ChiYunXiang/WheatherAPI.git)
+- [Wheather API](https://github.com/cgit6/API-project.git)
